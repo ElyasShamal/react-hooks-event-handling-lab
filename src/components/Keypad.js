@@ -3,9 +3,7 @@
 
 function Keypad() {
  
-    const handleChange = () =>{
-        console.log('Entering password...');
-    }
+    const handleChange = () => console.log('Entering password...');
 
     return (
         <div>
